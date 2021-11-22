@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102929/",
+  "id": 102929,
+  "absolute_url": "/opinion/102929/the-state-of-texas-v-anderson-clayton-company/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102929/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:10Z",
+  "date_modified": "2020-02-21T21:02:54.349238Z",
+  "type": "010combined",
+  "sha1": "66dbebeab0567978b34af84dd3204bbeef159f05",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.747.496.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">302 U.S. 747</p>\n    <p class=\"case_cite\">58 S.Ct. 265</p>\n    <p class=\"case_cite\">82 L.Ed. 578</p>\n    <p class=\"parties\">The STATE OF TEXAS, petitioner,<br>v.<br>ANDERSON, CLAYTON &amp; COMPANY<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a> et al.</p>\n    <p class=\"docket\">No. 496.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 15, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. A. L. Reed, of Dallas, Tex., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 92 F.(2d) 104.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 302 U.S. 780, 5, S.Ct. 366, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">747</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">265</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">578</span></span></p>\n    <p class=\"parties\">The STATE OF TEXAS, petitioner,<br>v.<br>ANDERSON, CLAYTON &amp; COMPANY<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a> et al.</p>\n    <p class=\"docket\">No. 496.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 15, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. A. L. Reed, of Dallas, Tex., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 92 F.(2d) 104.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">780</span></span>, 5, S.Ct. 366, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/91251/"
+  ]
+}

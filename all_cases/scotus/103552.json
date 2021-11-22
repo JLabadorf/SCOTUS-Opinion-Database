@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103552/",
+  "id": 103552,
+  "absolute_url": "/opinion/103552/automatic-devices-corp-v-sinko-tool-mfg-co/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103552/",
+  "author": "https://www.courtlistener.com/api/rest/v3/people/904/",
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:27Z",
+  "date_modified": "2020-02-21T21:09:10.857808Z",
+  "type": "010combined",
+  "sha1": "2177d1ad466619df95af78ef0b17cd2890939109",
+  "page_count": null,
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">314 U.S. 94</p>\n    <p class=\"case_cite\">62 S.Ct. 42</p>\n    <p class=\"case_cite\">86 L.Ed. 65</p>\n    <p class=\"parties\">AUTOMATIC DEVICES CORPORATION, Petitioner,<br>v.<br>SINKO TOOL &amp; MANUFACTURING COMPANY.</p>\n    <p class=\"docket\">No. 6.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">Argued Oct. 22, 1941.</p>\n    <p class=\"date\">November 10, 1941</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Drury W. Cooper and Thomas J. Byrne, both of New York City, and Henry M. Huxley, of Chicago, Ill., for petitioner.</p>\n      <p class=\"indent\">Messrs. Russell Wiles and Bernard A. Schroeder, both of Chicago, Ill., for respondent.</p>\n      <p class=\"indent\">Mr. Justice DOUGLAS delivered the opinion of the Court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This is a companion case to Cuno Engineering Corp. v. Automatic Devices Corp., 314 U.S. 84, 62 S.Ct. 37, 86 L.Ed. &#8212;-, decided this day. The court below held that claims 2, 3, and 11 of the Mead patent (No. 1,736,544) were invalid and not infringed. 7 Cir., 112 F.2d 335. We granted the petition for certiorari limited to the question of validity of those claims. For the reasons stated in Cuno Engineering Corp. v. Automatic Devices Corp., supra, the judgment is</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "<div>\n<center><b>314 U.S. 94 (1941)</b></center>\n<center><h1>AUTOMATIC DEVICES CORP.<br>\nv.<br>\nSINKO TOOL &amp; MANUFACTURING CO.</h1></center>\n<center>No. 6.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 22, 1941.</center>\n<center>Decided November 10, 1941.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Mr. Drury W. Cooper,</i> with whom <i>Messrs. Henry M. Huxley</i> and <i>Thomas J. Byrne</i> were on the brief, for petitioner.</p>\n<p><span class=\"star-pagination\">*95</span> <i>Messrs. Russell Wiles</i> and <i>Bernard A. Schroeder,</i> with whom <i>Mr. George A. Chritton</i> was on the brief, for respondent.</p>\n<p>MR. JUSTICE DOUGLAS delivered the opinion of the Court.</p>\n<p>This is a companion case to <i>Cuno Engineering Corp.</i> v. <i>Automatic Devices Corp., ante,</i> p. 84. The court below held that claims 2, 3, and 11 of the Mead patent (No. 1,736,544) were invalid and not infringed. 112 F.2d 335. We granted the petition for certiorari limited to the question of validity of those claims. For the reasons stated in <i>Cuno Engineering Corp.</i> v. <i>Automatic Devices Corp., supra</i><i>,</i> the judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">314</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">94</span> </span>(1941)</b></center>\n<center><h1>AUTOMATIC DEVICES CORP.<br>\nv.<br>\nSINKO TOOL &amp; MANUFACTURING CO.</h1></center>\n<center>No. 6.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 22, 1941.</center>\n<center>Decided November 10, 1941.</center>\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT.\n<p><i>Mr. Drury W. Cooper,</i> with whom <i>Messrs. Henry M. Huxley</i> and <i>Thomas J. Byrne</i> were on the brief, for petitioner.</p>\n<p><span class=\"star-pagination\">*95</span> <i>Messrs. Russell Wiles</i> and <i>Bernard A. Schroeder,</i> with whom <i>Mr. George A. Chritton</i> was on the brief, for respondent.</p>\n<p>MR. JUSTICE DOUGLAS delivered the opinion of the Court.</p>\n<p>This is a companion case to <i>Cuno Engineering Corp.</i> v. <i>Automatic Devices Corp., ante,</i> p. 84. The court below held that claims 2, 3, and 11 of the Mead patent (No. 1,736,544) were invalid and not infringed. <span class=\"citation\" data-id=\"1498735\"><a href=\"/opinion/1498735/automatic-devices-corp-v-sinko-tool-mfg-co/\"><span class=\"volume\">112</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">335</span></a></span>. We granted the petition for certiorari limited to the question of validity of those claims. For the reasons stated in <i>Cuno Engineering Corp.</i> v. <i>Automatic Devices <span class=\"citation\" data-id=\"1498735\"><a href=\"/opinion/1498735/automatic-devices-corp-v-sinko-tool-mfg-co/\"><span class=\"antecedent_guess\">Corp.,</span> supra</a></span></i><i>,</i> the judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1498735/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102362/",
+  "id": 102362,
+  "absolute_url": "/opinion/102362/louise-m-hunt-a-femme-sole-personally-and-as-guardian-of-the-estate-of/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102362/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:52:30Z",
+  "date_modified": "2020-02-21T21:29:02.301644Z",
+  "type": "010combined",
+  "sha1": "de2b59e6363757f6b8b2a1711eee0e18fd8dead1",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/293/293.US.530.91.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">293 U.S. 530</p>\n    <p class=\"case_cite\">55 S.Ct. 207</p>\n    <p class=\"case_cite\">79 L.Ed. 639</p>\n    <p class=\"parties\">Louise M. HUNT, a Femme Sole, Personally and as Guardian  of the Estate of Jack Russell Hunt and Sarah Ann Hunt,  Minors, petitioner,<br>v.<br>WESTERN CASUALTY COMPANY.</p>\n    <p class=\"docket\">No. 91.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 19, 1934</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. E. C. Street, of Waco, Tex., for petitioner.</p>\n      <p class=\"indent\">Mr. Charles J. Faulkner, Jr., of Chicago, Ill. (Messrs. Naman, Howell &amp; Brooks, of Waco, Tex., of counsel), for respondent.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">For decision granting certiorari, see 293 U. S. 537, 55 S. Ct. 76, 79 L. Ed. &#8212;&#8212;.</p>\n      <p class=\"indent\">For opinion below, see 69 F.(2d) 129.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">While, under the applicable law of Texas, the District Court was without authority in this suit to enforce an award of the Industrial Accident Board to afford a trial de novo (Vestal v. Texas Emp. Ins. Ass'n (Tex. Com. App.) 285 S. W. 1041; Texas Emp. Ins. Ass'n v. Neal (Tex. Civ. App.) 11 S.W.(2d) 847; Neal v. Texas Employers' Ins. Ass'n, 118 Tex. 236, 14 S.W.(2d) 793), the question of the true construction of the award was necessarily presented, and the decision of the Circuit Court of Appeals in reviewing the judgment of the District Court may be re garded as resting upon the determination of that question. The writ of certiorari is dismissed as improvidently granted.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">293</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">530</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">207</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">79</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">639</span></span></p>\n    <p class=\"parties\">Louise M. HUNT, a Femme Sole, Personally and as Guardian  of the Estate of Jack Russell Hunt and Sarah Ann Hunt,  Minors, petitioner,<br>v.<br>WESTERN CASUALTY COMPANY.</p>\n    <p class=\"docket\">No. 91.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 19, 1934</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. E. C. Street, of Waco, Tex., for petitioner.</p>\n      <p class=\"indent\">Mr. Charles J. Faulkner, Jr., of Chicago, Ill. (Messrs. Naman, Howell &amp; Brooks, of Waco, Tex., of counsel), for respondent.</p>\n      <p class=\"indent\">On writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit.</p>\n      <p class=\"indent\">For decision granting certiorari, see <span class=\"citation no-link\"><span class=\"volume\">293</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">537</span></span>, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">76</span></span>, 79 L. Ed. &#8212;&#8212;.</p>\n      <p class=\"indent\">For opinion below, see 69 F.(2d) 129.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">While, under the applicable law of Texas, the District Court was without authority in this suit to enforce an award of the Industrial Accident Board to afford a trial de novo (Vestal v. Texas Emp. Ins. Ass'n (Tex. Com. App.) <span class=\"citation no-link\"><span class=\"volume\">285</span> <span class=\"reporter\">S.W.</span> <span class=\"page\">1041</span></span>; Texas Emp. Ins. Ass'n v. Neal (Tex. Civ. App.) 11 S.W.(2d) 847; Neal v. Texas Employers' Ins. Ass'n, <span class=\"citation\" data-id=\"3975529\"><a href=\"/opinion/4204006/neal-v-texas-employers-ins-asso/\"><span class=\"volume\">118</span> <span class=\"reporter\">Tex.</span> <span class=\"page\">236</span></a></span>, 14 S.W.(2d) 793), the question of the true construction of the award was necessarily presented, and the decision of the Circuit Court of Appeals in reviewing the judgment of the District Court may be re garded as resting upon the determination of that question. The writ of certiorari is dismissed as improvidently granted.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/3975529/"
+  ]
+}

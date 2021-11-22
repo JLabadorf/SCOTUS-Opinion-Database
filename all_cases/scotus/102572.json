@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102572/",
+  "id": 102572,
+  "absolute_url": "/opinion/102572/a-j-richardson-v-chicago-rock-island-gulf-railway-company/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102572/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:53:23Z",
+  "date_modified": "2020-02-21T21:35:58.969196Z",
+  "type": "010combined",
+  "sha1": "1ec578278101a7b9cccad5d87fd4a76354361b4f",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.646.606.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">296 U.S. 646</p>\n    <p class=\"case_cite\">56 S.Ct. 311</p>\n    <p class=\"case_cite\">80 L.Ed. 460</p>\n    <p class=\"parties\">A. J. RICHARDSON, petitioner,<br>v.<br>CHICAGO, ROCK ISLAND &amp; GULF RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 606.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied, for the reason that the Court, upon examination of the papers herein submitted finds no ground upon which writ of certiorari should be granted. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 297 U. S. 727, 56 S. Ct. 496, 80 L. Ed. 1010.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"102573\"><a href=\"/opinion/102573/rebecca-f-jones-v-jefferson-standard-life-insurance-company/\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">646</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">311</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">460</span></span></p>\n    <p class=\"parties\">A. J. RICHARDSON, petitioner,<br>v.<br>CHICAGO, ROCK ISLAND &amp; GULF RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 606.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 9, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Texas.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">The motion for leave to proceed further herein in forma pauperis is denied, for the reason that the Court, upon examination of the papers herein submitted finds no ground upon which writ of certiorari should be granted. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">297</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">727</span></span>, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">496</span></span>, <span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1010</span></span>.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102573/"
+  ]
+}

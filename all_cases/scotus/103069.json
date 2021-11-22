@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103069/",
+  "id": 103069,
+  "absolute_url": "/opinion/103069/national-carbon-company-inc-v-the-western-shade-cloth-company/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103069/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:15Z",
+  "date_modified": "2020-02-21T21:52:15.635385Z",
+  "type": "010combined",
+  "sha1": "8f2d5ebc822beb92722d5045fa8e0453b64e3a43",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.570.936.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">304 U.S. 570</p>\n    <p class=\"case_cite\">58 S.Ct. 1039</p>\n    <p class=\"case_cite\">82 L.Ed. 1535</p>\n    <p class=\"parties\">NATIONAL CARBON COMPANY, Inc., petitioner,<br>v.<br>The WESTERN SHADE CLOTH COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 936.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 16, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Thomas G. Haight, of Jersey City, N. J., and George A. Chritton, of Chicago, Ill., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 93 F.2d 94.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Seventh Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 304 U.S. 590, 58 S.Ct. 1054, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">570</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">1039</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1535</span></span></p>\n    <p class=\"parties\">NATIONAL CARBON COMPANY, Inc., petitioner,<br>v.<br>The WESTERN SHADE CLOTH COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 936.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 16, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Thomas G. Haight, of Jersey City, N. J., and George A. Chritton, of Chicago, Ill., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation\" data-id=\"1542992\"><a href=\"/opinion/1542992/national-carbon-co-v-western-shade-cloth-co/\"><span class=\"volume\">93</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">94</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Seventh Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">590</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">1054</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1542992/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102416/",
+  "id": 102416,
+  "absolute_url": "/opinion/102416/w-verdner-carson-frank-r-atwill-v-the-long-bell-lumber-corporation/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102416/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:52:31Z",
+  "date_modified": "2020-02-21T21:30:50.674322Z",
+  "type": "010combined",
+  "sha1": "5016f061ab549375e7a52b9ecd9205139b200130",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.707.581.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">294 U.S. 707</p>\n    <p class=\"case_cite\">55 S.Ct. 352</p>\n    <p class=\"case_cite\">79 L.Ed. 1242</p>\n    <p class=\"parties\">W. Verdner CARSON, Frank R. Atwill, et al., petitioners,<br>v.<br>The LONG-BELL LUMBER CORPORATION et al.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 581.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. John S. Leahy and Walter H. Saunders, both of St. Louis, Mo., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 73 F.(2d) 397.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 294 U. S. 731, 55 S. Ct. 506, 79 L. Ed.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"102415\"><a href=\"/opinion/102415/georgia-m-spruill-v-mary-otoole-and-edgar-c-snyder/\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">707</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">352</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">79</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1242</span></span></p>\n    <p class=\"parties\">W. Verdner CARSON, Frank R. Atwill, et al., petitioners,<br>v.<br>The LONG-BELL LUMBER CORPORATION et al.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 581.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. John S. Leahy and Walter H. Saunders, both of St. Louis, Mo., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 73 F.(2d) 397.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">731</span></span>, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">506</span></span>, 79 L. Ed.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102415/"
+  ]
+}

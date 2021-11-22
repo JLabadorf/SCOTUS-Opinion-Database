@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103717/",
+  "id": 103717,
+  "absolute_url": "/opinion/103717/hughes-v-wendel-county-treasurer-of-butler-county-ohio/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103717/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:32Z",
+  "date_modified": "2020-02-21T22:22:44.790597Z",
+  "type": "010combined",
+  "sha1": "08439c276d04f213682cb3ce50d980a887bbe51d",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/317/317.US.134.176.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">317 U.S. 134</p>\n    <p class=\"case_cite\">63 S.Ct. 103</p>\n    <p class=\"case_cite\">87 L.Ed. 139</p>\n    <p class=\"parties\">HUGHES<br>v.<br>WENDEL, County Treasurer of Butler County, Ohio, et al.</p>\n    <p class=\"docket\">No. 176.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Statement as to Jurisdiction, Decided Nov. 16, 1942.</p>\n      <p class=\"indent\">Mr. George S. Hawke, of Cincinnati, Ohio, for appellant.</p>\n      <p class=\"indent\">Mr. Paul A. Baden, of Hamilton, Ohio, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appellant is the owner of a 99-year perpetually renewable lease of which the University of Miami, in Ohio, is lessor, and which has been subjected to assessment of county taxes pursuant to &#167; 5330 of the Ohio General Code. Appellant contends that this statute as applied violates an exemption from taxation granted by &#167; 13 of an Ohio statute of February 17, 1809 (7 Ohio Laws, p. 188), which allegedly became a part of her contract through execution of the lease, and impairs the obligation of her contract contrary to Article I, &#167; 10 of the Constitution. The record, however, does not set forth appellant's lease, and the incomplete summary of it contained in her pleading is not adequate to enable us to determine what her rights may be. Accordingly, we must dismiss the appeal.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Dismissed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">317</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">134</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation\" data-id=\"103715\"><a href=\"/opinion/103715/helvering-v-ohio-leather-co/\"><span class=\"volume\">63</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">103</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">87</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">139</span></span></p>\n    <p class=\"parties\">HUGHES<br>v.<br>WENDEL, County Treasurer of Butler County, Ohio, et al.</p>\n    <p class=\"docket\">No. 176.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Statement as to Jurisdiction, Decided Nov. 16, 1942.</p>\n      <p class=\"indent\">Mr. George S. Hawke, of Cincinnati, Ohio, for appellant.</p>\n      <p class=\"indent\">Mr. Paul A. Baden, of Hamilton, Ohio, for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Appellant is the owner of a 99-year perpetually renewable lease of which the University of Miami, in Ohio, is lessor, and which has been subjected to assessment of county taxes pursuant to &#167; 5330 of the Ohio General Code. Appellant contends that this statute as applied violates an exemption from taxation granted by &#167; 13 of an Ohio statute of February 17, 1809 (7 Ohio Laws, p. 188), which allegedly became a part of her contract through execution of the lease, and impairs the obligation of her contract contrary to Article I, &#167; 10 of the Constitution. The record, however, does not set forth appellant's lease, and the incomplete summary of it contained in her pleading is not adequate to enable us to determine what her rights may be. Accordingly, we must dismiss the appeal.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Dismissed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/103715/"
+  ]
+}

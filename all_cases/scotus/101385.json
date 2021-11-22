@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/101385/",
+  "id": 101385,
+  "absolute_url": "/opinion/101385/standard-pipe-line-company-inc-v-commissioners-of-index-sulphur-drainage/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/101385/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:48:46Z",
+  "date_modified": "2020-02-21T21:20:29.307870Z",
+  "type": "010combined",
+  "sha1": "69c9ca9ffcd59ba3d9daafb451d65643fd516ea3",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/278/278.US.558.11.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">278 U.S. 558</p>\n    <p class=\"case_cite\">49 S.Ct. 17</p>\n    <p class=\"case_cite\">73 L.Ed. 504</p>\n    <p class=\"parties\">STANDARD PIPE LINE COMPANY, Inc., et al., petitioners,<br>v.<br>COMMISSIONERS OF INDEX SULPHUR DRAINAGE DISTRICT.</p>\n    <p class=\"docket\">No. 11.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 15, 1928</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. T. M. Milling, of Shreveport, La., and William H. Arnold, William H. Arnold, Jr., and David C. Arnold, all of Texarkana, Ark., for petitioner.</p>\n      <p class=\"indent\">Mr. Henry Moore, Jr., of Texarkana, Ark., for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of certiorari (48 S. Ct. 420) is dismissed for the reason that the decree of the state court sought here to be reviewed was based on a non-Federal ground adequate to support it. Bilby v. Stewart, 246 U. S. 255, 257, 38 S. Ct. 264, 62 L. Ed. 701; Farson, Son &amp; Co. v. Bird, 248 U. S. 268, 271, 39 S. Ct. 111, 63 L. Ed. 233.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">278</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">558</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">49</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">17</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">73</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">504</span></span></p>\n    <p class=\"parties\">STANDARD PIPE LINE COMPANY, Inc., et al., petitioners,<br>v.<br>COMMISSIONERS OF INDEX SULPHUR DRAINAGE DISTRICT.</p>\n    <p class=\"docket\">No. 11.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 15, 1928</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. T. M. Milling, of Shreveport, La., and William H. Arnold, William H. Arnold, Jr., and David C. Arnold, all of Texarkana, Ark., for petitioner.</p>\n      <p class=\"indent\">Mr. Henry Moore, Jr., of Texarkana, Ark., for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The writ of certiorari (<span class=\"citation no-link\"><span class=\"volume\">48</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">420</span></span>) is dismissed for the reason that the decree of the state court sought here to be reviewed was based on a non-Federal ground adequate to support it. Bilby v. Stewart, <span class=\"citation\" data-id=\"99116\"><a href=\"/opinion/99116/bilby-v-stewart/\"><span class=\"volume\">246</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">255</span></a></span>, 257, <span class=\"citation\" data-id=\"99116\"><a href=\"/opinion/99116/bilby-v-stewart/\"><span class=\"volume\">38</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">264</span></a></span>, <span class=\"citation\" data-id=\"99116\"><a href=\"/opinion/99116/bilby-v-stewart/\"><span class=\"volume\">62</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">701</span></a></span>; Farson, Son &amp; Co. v. Bird, <span class=\"citation\" data-id=\"99249\"><a href=\"/opinion/99249/farson-son-co-v-bird/\"><span class=\"volume\">248</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">268</span></a></span>, 271, <span class=\"citation\" data-id=\"99249\"><a href=\"/opinion/99249/farson-son-co-v-bird/\"><span class=\"volume\">39</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">111</span></a></span>, <span class=\"citation\" data-id=\"99249\"><a href=\"/opinion/99249/farson-son-co-v-bird/\"><span class=\"volume\">63</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">233</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/99116/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/99249/"
+  ]
+}

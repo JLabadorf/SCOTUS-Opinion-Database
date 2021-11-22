@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103063/",
+  "id": 103063,
+  "absolute_url": "/opinion/103063/harry-e-wiese-v-commissioner-of-internal-revenue/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103063/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:15Z",
+  "date_modified": "2020-02-21T21:52:14.779599Z",
+  "type": "010combined",
+  "sha1": "850ea2179d09d1882d456f54fe450f4c27ae4d6a",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.562.886.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">304 U.S. 562</p>\n    <p class=\"case_cite\">58 S.Ct. 944</p>\n    <p class=\"case_cite\">82 L.Ed. 1529</p>\n    <p class=\"parties\">Harry E. WIESE, petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 886.</p>\n    <p class=\"court\">Supreme Court of the Unied  States</p>\n    <p class=\"date\">April 25, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. H. Kennedy McCook, of Washington, D. C., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 93 F.2d 921.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 304 U.S. 589, 58 S.Ct. 1045, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"103062\"><a href=\"/opinion/103062/city-of-fort-worth-v-lone-star-gas-company/\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">562</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1529</span></span></p>\n    <p class=\"parties\">Harry E. WIESE, petitioner,<br>v.<br>COMMISSIONER OF INTERNAL REVENUE.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 886.</p>\n    <p class=\"court\">Supreme Court of the Unied  States</p>\n    <p class=\"date\">April 25, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. H. Kennedy McCook, of Washington, D. C., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation\" data-id=\"1542751\"><a href=\"/opinion/1542751/wiese-v-commissioner-of-internal-revenue/\"><span class=\"volume\">93</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">921</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Eighth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">589</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">1045</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/103062/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/1542751/"
+  ]
+}

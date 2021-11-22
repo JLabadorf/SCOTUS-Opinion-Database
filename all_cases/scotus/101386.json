@@ -1,0 +1,30 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/101386/",
+  "id": 101386,
+  "absolute_url": "/opinion/101386/firemens-insurance-company-of-newark-new-jersey-v-albert-conway-as/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/101386/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:48:46Z",
+  "date_modified": "2020-02-21T21:20:29.700349Z",
+  "type": "010combined",
+  "sha1": "c6c763f3f2d2a00b043e44928224539a739fdc9b",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/278/278.US.580.376.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">278 U.S. 580</p>\n    <p class=\"case_cite\">49 S.Ct. 184</p>\n    <p class=\"case_cite\">73 L.Ed. 517</p>\n    <p class=\"parties\">FIREMEN'S INSURANCE COMPANY OF NEWARK, NEW  JERSEY, appellant,<br>v.<br>Albert CONWAY, as Superintendent of  Insurance of the State of New York.</p>\n    <p class=\"docket\">No. 376.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Affirmed on the authority of Meccano, Ltd., v. Wanamaker, 253 U. S. 136, 141, 40 S. Ct. 463, 64 L. Ed. 822; Chicago, Great Western Ry. v. Kendall, 266 U. S. 94, 100, 45 S. Ct. 55, 69 L. Ed. 183; Foster-Fountain Packing Co. v. Haydel (No. 68) 278 U. S. 1, 49 S. Ct. 18 73 L. Ed. &#8212;, decided October 15, 1928.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">278</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">580</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">49</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">184</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">73</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">517</span></span></p>\n    <p class=\"parties\">FIREMEN'S INSURANCE COMPANY OF NEWARK, NEW  JERSEY, appellant,<br>v.<br>Albert CONWAY, as Superintendent of  Insurance of the State of New York.</p>\n    <p class=\"docket\">No. 376.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 14, 1929</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Affirmed on the authority of Meccano, Ltd., v. Wanamaker, <span class=\"citation\" data-id=\"99594\"><a href=\"/opinion/99594/meccano-ltd-v-john-wanamaker-ny/\"><span class=\"volume\">253</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">136</span></a></span>, 141, <span class=\"citation\" data-id=\"99594\"><a href=\"/opinion/99594/meccano-ltd-v-john-wanamaker-ny/\"><span class=\"volume\">40</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">463</span></a></span>, <span class=\"citation\" data-id=\"99594\"><a href=\"/opinion/99594/meccano-ltd-v-john-wanamaker-ny/\"><span class=\"volume\">64</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">822</span></a></span>; Chicago, Great Western Ry. v. Kendall, <span class=\"citation\" data-id=\"100479\"><a href=\"/opinion/100479/chicago-great-western-r-co-v-kendall/\"><span class=\"volume\">266</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">94</span></a></span>, 100, <span class=\"citation\" data-id=\"100479\"><a href=\"/opinion/100479/chicago-great-western-r-co-v-kendall/\"><span class=\"volume\">45</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">55</span></a></span>, <span class=\"citation\" data-id=\"100479\"><a href=\"/opinion/100479/chicago-great-western-r-co-v-kendall/\"><span class=\"volume\">69</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">183</span></a></span>; Foster-Fountain Packing Co. v. Haydel (No. 68) <span class=\"citation\" data-id=\"101328\"><a href=\"/opinion/101328/foster-fountain-packing-co-v-haydel/\"><span class=\"volume\">278</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">49</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">18</span> </span>73 L. Ed. &#8212;, decided October 15, 1928.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/99594/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/100479/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/101328/"
+  ]
+}

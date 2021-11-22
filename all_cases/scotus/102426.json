@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102426/",
+  "id": 102426,
+  "absolute_url": "/opinion/102426/anselan-buchanan-thompson-buchanan-v-the-united-states/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102426/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:52:53Z",
+  "date_modified": "2020-02-21T21:30:52.461950Z",
+  "type": "010combined",
+  "sha1": "e3843c4937268df65f6ab2c9c0feb3337db4fa1a",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.723.679.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">294 U.S. 723</p>\n    <p class=\"case_cite\">55 S.Ct. 550</p>\n    <p class=\"case_cite\">79 L.Ed. 1254</p>\n    <p class=\"parties\">Anselan BUCHANAN, Thompson Buchanan, et al., petitioners,<br>v.<br>The UNITED STATES.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 679.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 18, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Camden R. McAtee, of Washington, D. C., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Claims denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 55 S. Ct. 647, 79 L. Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"102427\"><a href=\"/opinion/102427/rose-hudson-barnes-v-frances-d-boyd-annie-l-brown/\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">723</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">550</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">79</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1254</span></span></p>\n    <p class=\"parties\">Anselan BUCHANAN, Thompson Buchanan, et al., petitioners,<br>v.<br>The UNITED STATES.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 679.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 18, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Camden R. McAtee, of Washington, D. C., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The Attorney General, for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Court of Claims denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">647</span></span>, 79 L. Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102427/"
+  ]
+}

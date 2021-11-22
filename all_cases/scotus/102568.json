@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102568/",
+  "id": 102568,
+  "absolute_url": "/opinion/102568/james-v-allred-governor-of-state-of-texas-v-stanolind-oil-gas-company/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102568/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:53:23Z",
+  "date_modified": "2020-02-21T21:35:58.262450Z",
+  "type": "010combined",
+  "sha1": "673c65c5e810fd9abfce99d6a491a098ddf1d736",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.627.419.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">296 U.S. 627</p>\n    <p class=\"case_cite\">56 S.Ct. 149</p>\n    <p class=\"case_cite\">80 L.Ed. 445</p>\n    <p class=\"parties\">James V. ALLRED, Governor of State of Texas et  al., petitioners,<br>v.<br>STANOLIND OIL &amp; GAS COMPANY et al.</p>\n    <p class=\"docket\">No. 419.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Mark McMahon, of Ft. Worth, Tex., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Tyler v. Stanolind Oil &amp; Gas Co., 77 F.(2d) 802.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied 296 U. S. 663, 56 S. Ct. 169, 80 L.Ed. 472.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"102567\"><a href=\"/opinion/102567/jacksonville-terminal-company-v-geneva-blackshear-as-administratrix-etc/\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">627</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">149</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">445</span></span></p>\n    <p class=\"parties\">James V. ALLRED, Governor of State of Texas et  al., petitioners,<br>v.<br>STANOLIND OIL &amp; GAS COMPANY et al.</p>\n    <p class=\"docket\">No. 419.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 21, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Mark McMahon, of Ft. Worth, Tex., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Tyler v. Stanolind Oil &amp; Gas Co., 77 F.(2d) 802.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">663</span></span>, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">169</span></span>, <span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">472</span></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102567/"
+  ]
+}

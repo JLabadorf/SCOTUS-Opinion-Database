@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103078/",
+  "id": 103078,
+  "absolute_url": "/opinion/103078/d-v-johnson-doing-business-in-name-of-tennessee-grain-company-v/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103078/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:15Z",
+  "date_modified": "2020-02-21T21:52:16.891261Z",
+  "type": "010combined",
+  "sha1": "b8c3918b1479de7d92964edf7b9565f3b1ce474c",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.585.1015.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">304 U.S. 585</p>\r\n    <p class=\"case_cite\">58 S.Ct. 1058</p>\r\n    <p class=\"case_cite\">82 L.Ed. 1546</p>\r\n    <p class=\"parties\">D. V. JOHNSON, doing business in name of Tennessee Grain  Company, petitioner,<br>v.<br>IGLEHEART BROTHERS, Incorporated.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">No. 1015.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 31, 1938</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. Emra H. Ireland, of Evansville, Ind., and Albert Stump, of Indianapolis, Ind., for petitioner.</p>\r\n      <p class=\"indent\">Messrs. George S. Herr, Oscar McPeak, and Lester E. Waterbury, all of New York City (Mr. Joseph H. Iglehart, of Evansville, Ind., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">For opinion below, see 95 F.2d 4.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Seventh Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> Rehearing denied 59 S.Ct. 59, 83 L.Ed. &#8212;&#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">585</span></span></p>\r\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">1058</span></span></p>\r\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1546</span></span></p>\r\n    <p class=\"parties\">D. V. JOHNSON, doing business in name of Tennessee Grain  Company, petitioner,<br>v.<br>IGLEHEART BROTHERS, Incorporated.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\r\n    <p class=\"docket\">No. 1015.</p>\r\n    <p class=\"court\">Supreme Court of the United States</p>\r\n    <p class=\"date\">May 31, 1938</p>\r\n    <div class=\"prelims\">\r\n      <p class=\"indent\">Messrs. Emra H. Ireland, of Evansville, Ind., and Albert Stump, of Indianapolis, Ind., for petitioner.</p>\r\n      <p class=\"indent\">Messrs. George S. Herr, Oscar McPeak, and Lester E. Waterbury, all of New York City (Mr. Joseph H. Iglehart, of Evansville, Ind., for respondent.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p1\">\r\n      <span class=\"num\">1</span>\r\n      <p class=\"indent\">For opinion below, see <span class=\"citation\" data-id=\"1563179\"><a href=\"/opinion/1563179/johnson-v-igleheart-bros/\"><span class=\"volume\">95</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">4</span></a></span>.</p>\r\n    </div>\r\n    <div class=\"num\" id=\"p2\">\r\n      <span class=\"num\">2</span>\r\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Seventh Circuit denied.</p>\r\n    </div>\r\n    <div class=\"footnotes\">\r\n      <div class=\"footnote\" id=\"fn-s\">\r\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\r\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">59</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">59</span></span>, 83 L.Ed. &#8212;&#8212;.</p>\r\n      </div>\r\n    </div>\r\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1563179/"
+  ]
+}

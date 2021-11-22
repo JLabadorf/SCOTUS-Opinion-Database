@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103755/",
+  "id": 103755,
+  "absolute_url": "/opinion/103755/holley-v-lawrence/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103755/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": true,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:33Z",
+  "date_modified": "2020-02-21T20:43:49.003418Z",
+  "type": "010combined",
+  "sha1": "4ec52ceb052f34c494547a43b0ba56a1ad4721a2",
+  "page_count": null,
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">317 U.S. 518</p>\n    <p class=\"case_cite\">63 S.Ct. 394</p>\n    <p class=\"case_cite\">87 L.Ed. 434</p>\n    <p class=\"parties\">HOLLEY<br>v.<br>LAWRENCE, Warden.</p>\n    <p class=\"docket\">No. 600.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">On Jurisdictional Statement Under Rule 12, Dec. 24, 1942.</p>\n      <p>Decided Jan. 18, 1943.</p>\n      <p>Rehearing Denied Feb. 1, 1943.</p>\n      <p class=\"indent\">See 318 U.S. 578, 63 S.Ct. 531, 87 L.Ed. &#8212;-.</p>\n      <p class=\"indent\">Mr. Benjamin E. Pierce, of Augusta, Ga., for petitioner.</p>\n      <p class=\"indent\">No appearance for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion for leave to proceed in forma pauperis is granted. The Court has examined all the federal questions raised by appellant. In so far as the appeal challenges the validity of Georgia Code &#167; 38-1604, which makes incompetent the testimony of a wife at the trial of her husband, the judgment of the court below rests upon a non-federal ground adequate to support it, namely that the failure to tender such testimony at the trial barred any later claim of the alleged constitutional right. Atlantic Coast Line R. Co. v. Mims, 242 U.S. 532, 535, 37 S.Ct. 188, 189, 61 L.Ed. 476. The Court finds that no other federal question presented by the appeal warrants review by this Court. The appeal is accordingly dismissed.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Dismissed.</p>\n    </div>\n    ",
+  "html_lawbox": "<div>\n<center><b>317 U.S. 518 (1943)</b></center>\n<center><h1>HOLLEY<br>\nv.<br>\nLAWRENCE, WARDEN.</h1></center>\n<center>No. 600.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 18, 1943.</center>\nAPPEAL FROM THE SUPREME COURT OF GEORGIA.\n<p><i>Mr. Benjamin E. Pierce</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed in forma pauperis is granted. The Court has examined all the federal questions raised by appellant. In so far as the appeal challenges the validity of Georgia Code § 38-1604, which makes incompetent the testimony of a wife at the trial of her husband, the judgment of the court below rests upon a nonfederal ground adequate to support it, namely, that the failure to tender such testimony at the trial barred any later claim of the alleged constitutional right (<i>Atlantic Coast Line R. Co.</i> v. <i>Mims,</i> 242 U.S. 532, 535). The Court finds that no other federal question presented by the appeal warrants review by this Court. The appeal is accordingly dismissed.</p>\n<p><i>Dismissed.</i></p>\n</div>",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">317</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">518</span> </span>(1943)</b></center>\n<center><h1>HOLLEY<br>\nv.<br>\nLAWRENCE, WARDEN.</h1></center>\n<center>No. 600.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided January 18, 1943.</center>\nAPPEAL FROM THE SUPREME COURT OF GEORGIA.\n<p><i>Mr. Benjamin E. Pierce</i> for appellant.</p>\n<p>PER CURIAM.</p>\n<p>The motion for leave to proceed in forma pauperis is granted. The Court has examined all the federal questions raised by appellant. In so far as the appeal challenges the validity of Georgia Code § 38-1604, which makes incompetent the testimony of a wife at the trial of her husband, the judgment of the court below rests upon a nonfederal ground adequate to support it, namely, that the failure to tender such testimony at the trial barred any later claim of the alleged constitutional right (<i>Atlantic Coast Line R. Co.</i> v. <i>Mims,</i> <span class=\"citation\" data-id=\"98857\"><a href=\"/opinion/98857/atlantic-coast-line-r-co-v-mims/\"><span class=\"volume\">242</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">532</span></a></span>, 535). The Court finds that no other federal question presented by the appeal warrants review by this Court. The appeal is accordingly dismissed.</p>\n<p><i>Dismissed.</i></p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/98857/"
+  ]
+}

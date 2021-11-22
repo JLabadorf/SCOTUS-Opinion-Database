@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102551/",
+  "id": 102551,
+  "absolute_url": "/opinion/102551/realty-acceptance-corporation-v-henry-g-montgomery/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102551/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:53:23Z",
+  "date_modified": "2020-02-21T21:35:55.127113Z",
+  "type": "010combined",
+  "sha1": "19ad1d0e7e4d7797956991841163f5ef86c7f553",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.590.152.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">296 U.S. 590</p>\n    <p class=\"case_cite\">56 S.Ct. 103</p>\n    <p class=\"case_cite\">80 L.Ed. 418</p>\n    <p class=\"parties\">REALTY ACCEPTANCE CORPORATION, petitioner,<br>v.<br>Henry G. MONTGOMERY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 152.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. R. Randolph Hicks, of New York City, for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 77 F.(2d) 762.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 296 U. S. 662, 56 S. Ct. 167, 80 L. Ed. 472.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"102552\"><a href=\"/opinion/102552/y-allen-holman-sudie-d-holman-j-d-holman-v-gulf-refining-company-of/\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">590</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">103</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">418</span></span></p>\n    <p class=\"parties\">REALTY ACCEPTANCE CORPORATION, petitioner,<br>v.<br>Henry G. MONTGOMERY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 152.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. R. Randolph Hicks, of New York City, for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 77 F.(2d) 762.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">662</span></span>, <span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">167</span></span>, <span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">472</span></span>.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102552/"
+  ]
+}

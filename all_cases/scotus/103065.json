@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103065/",
+  "id": 103065,
+  "absolute_url": "/opinion/103065/r-j-reynolds-tobacco-company-v-c-h-robertson-collector-of-internal/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103065/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:15Z",
+  "date_modified": "2020-02-21T21:52:15.076760Z",
+  "type": "010combined",
+  "sha1": "f713ae35c282f78324a871295bb80fb512de01aa",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.563.893.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">304 U.S. 563</p>\n    <p class=\"case_cite\">58 S.Ct. 944</p>\n    <p class=\"case_cite\">82 L.Ed. 1530</p>\n    <p class=\"parties\">R. J. REYNOLDS TOBACCO COMPANY, petitioner,<br>v.<br>C. H. ROBERTSON, Collector of Internal Revenue, etc.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 893.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 25, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Alexander H. Sands, of Richmond, Va., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinions below, see 94 F.2d 167; D.C., 22 F.Supp. 187.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 304 U.S. 589, 58 S.Ct. 1045, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"103064\"><a href=\"/opinion/103064/fred-f-florence-v-r-e-crummer/\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">563</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1530</span></span></p>\n    <p class=\"parties\">R. J. REYNOLDS TOBACCO COMPANY, petitioner,<br>v.<br>C. H. ROBERTSON, Collector of Internal Revenue, etc.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 893.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 25, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Alexander H. Sands, of Richmond, Va., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinions below, see <span class=\"citation no-link\"><span class=\"volume\">94</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">167</span></span>; D.C., <span class=\"citation no-link\"><span class=\"volume\">22</span> <span class=\"reporter\">F. Supp.</span> <span class=\"page\">187</span></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fourth Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">589</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">1045</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/103064/"
+  ]
+}

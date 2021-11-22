@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102928/",
+  "id": 102928,
+  "absolute_url": "/opinion/102928/louisiana-arkansas-railway-company-v-mrs-esther-francis/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102928/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:10Z",
+  "date_modified": "2020-02-21T21:02:54.206934Z",
+  "type": "010combined",
+  "sha1": "adad53613cdd5263bd214901543a717869ea4f34",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.746.478.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">302 U.S. 746</p>\n    <p class=\"case_cite\">58 S.Ct. 264</p>\n    <p class=\"case_cite\">82 L.Ed. 576</p>\n    <p class=\"parties\">LOUISIANA &amp; ARKANSAS RAILWAY COMPANY, petitioner,<br>v.<br>Mrs. Esther FRANCIS.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 478.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 15, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. A. L. Burford, of Texarkana, Tex., and R. E. Milling, Jr., of New Orleans, La., for petitioner.</p>\n      <p class=\"indent\">Messrs. Leon O'Quin and Henry C. Walker, Jr., both of Shreveport, La., for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 187 La. 975, 175 So. 638.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of the State of Louisiana denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 302 U.S. 779, 58 S.Ct. 362, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">746</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">264</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">576</span></span></p>\n    <p class=\"parties\">LOUISIANA &amp; ARKANSAS RAILWAY COMPANY, petitioner,<br>v.<br>Mrs. Esther FRANCIS.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 478.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">November 15, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. A. L. Burford, of Texarkana, Tex., and R. E. Milling, Jr., of New Orleans, La., for petitioner.</p>\n      <p class=\"indent\">Messrs. Leon O'Quin and Henry C. Walker, Jr., both of Shreveport, La., for respondent.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation\" data-id=\"3470606\"><a href=\"/opinion/3471710/francis-v-louisiana-a-ry-co/\"><span class=\"volume\">187</span> <span class=\"reporter\">La.</span> <span class=\"page\">975</span></a></span>, <span class=\"citation\" data-id=\"3470606\"><a href=\"/opinion/3471710/francis-v-louisiana-a-ry-co/\"><span class=\"volume\">175</span> <span class=\"reporter\">So.</span> <span class=\"page\">638</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of the State of Louisiana denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">779</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">362</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/3470606/"
+  ]
+}

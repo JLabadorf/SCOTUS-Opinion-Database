@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/101779/",
+  "id": 101779,
+  "absolute_url": "/opinion/101779/edgar-m-morsman-jr-administrator-of-the-estate-of-edgar-m-morsman-v/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/101779/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:50:14Z",
+  "date_modified": "2020-02-21T21:16:48.679376Z",
+  "type": "010combined",
+  "sha1": "f5d8e1b00f3f11fa8a9de086aefccd9b1cd6e229",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/283/283.US.783.581.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">283 U.S. 783</p>\n    <p class=\"case_cite\">51 S.Ct. 343</p>\n    <p class=\"case_cite\">75 L.Ed. 1412</p>\n    <p class=\"parties\">Edgar M. MORSMAN, Jr., Administrator of the Estate of  Edgar M. Morsman, petitioner,<br>v.<br>David BURNET, Commissioner of Internal Revenue.</p>\n    <p class=\"docket\">No. 581.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 2, 1931</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Edgar M. Morsman, Jr., of Omaha, Neb., for petitioner.</p>\n      <p class=\"indent\">The Attorney General, for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The question in this case is that of the construction of section 302(c) of the Revenue Act of 1924, c. 234, 43 Stat. 253, 304 (26 USCA &#167; 1094 note), a provision similar to that of section 402(c) of the Revenue Act of 1918, c. 18, 40 Stat. 1057, 1097, which has already been construed by this Court, and, in this view, there being no question of the constitutional authority of the Congress to impose prosepctively a tax with respect to transfers or tursts of the sort here involved, the judgment of the United States Circuit Court of Appeals for the Eighth Circuit 44 F.(2d) 902 is reversed upon the authority of May v. Heiner, 281 U. S. 238, 50 S. Ct. 286, 74 L. Ed. 826, 67 A. L. R. 1244.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">283</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">783</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">51</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">343</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">75</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1412</span></span></p>\n    <p class=\"parties\">Edgar M. MORSMAN, Jr., Administrator of the Estate of  Edgar M. Morsman, petitioner,<br>v.<br>David BURNET, Commissioner of Internal Revenue.</p>\n    <p class=\"docket\">No. 581.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">March 2, 1931</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Edgar M. Morsman, Jr., of Omaha, Neb., for petitioner.</p>\n      <p class=\"indent\">The Attorney General, for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The question in this case is that of the construction of section 302(c) of the Revenue Act of 1924, c. 234, 43 Stat. 253, 304 (26 USCA &#167; 1094 note), a provision similar to that of section 402(c) of the Revenue Act of 1918, c. 18, 40 Stat. 1057, 1097, which has already been construed by this Court, and, in this view, there being no question of the constitutional authority of the Congress to impose prosepctively a tax with respect to transfers or tursts of the sort here involved, the judgment of the United States Circuit Court of Appeals for the Eighth Circuit 44 F.(2d) 902 is reversed upon the authority of May v. Heiner, <span class=\"citation\" data-id=\"101552\"><a href=\"/opinion/101552/may-v-heiner/\"><span class=\"volume\">281</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">238</span></a></span>, <span class=\"citation\" data-id=\"101552\"><a href=\"/opinion/101552/may-v-heiner/\"><span class=\"volume\">50</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">286</span></a></span>, <span class=\"citation\" data-id=\"101552\"><a href=\"/opinion/101552/may-v-heiner/\"><span class=\"volume\">74</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">826</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">67</span> <span class=\"reporter\">A.</span> <span class=\"page\">L</span></span>. R. 1244.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/101552/"
+  ]
+}

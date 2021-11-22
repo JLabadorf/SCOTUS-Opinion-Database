@@ -1,0 +1,32 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/101856/",
+  "id": 101856,
+  "absolute_url": "/opinion/101856/l-s-brannan-m-n-carroll-d-o-hamby-v-william-b-harrison-as/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/101856/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:50:17Z",
+  "date_modified": "2020-02-21T21:19:41.428581Z",
+  "type": "010combined",
+  "sha1": "84cf47e4698ae805f10e1ddcad88ea912e88f0df",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/284/284.US.579.169.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">284 U.S. 579</p>\n    <p class=\"case_cite\">52 S.Ct. 28</p>\n    <p class=\"case_cite\">76 L.Ed. 502</p>\n    <p class=\"parties\">L. S. BRANNAN, M. N. Carroll, D. O. Hamby, et  al., appellants,<br>v.<br>William B. HARRISON, as Comptroller General, etc.</p>\n    <p class=\"docket\">No. 169.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 26, 1931</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. C. N. Davie, of Atlanta, Ga., for appellants.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal herein is dismissed. Louisiana Navigation Co. Ltd., v. Oyster Commission, 226 U. S. 99, 101, 33 S. Ct. 78, 57 L. Ed. 138; Reddall v. Bryan, 24 How. 420, 16 L. Ed. 740; Bruce v. Tobin, 245 U. S. 18, 19, 38 S. Ct. 7, 62 L. Ed. 123; Verden v. Coleman, 18 How. 86, 15 L. Ed. 272; Moses v. The Mayor, 15 Wall. 387, 21 L. Ed. 176.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">284</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">579</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">52</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">28</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">76</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">502</span></span></p>\n    <p class=\"parties\">L. S. BRANNAN, M. N. Carroll, D. O. Hamby, et  al., appellants,<br>v.<br>William B. HARRISON, as Comptroller General, etc.</p>\n    <p class=\"docket\">No. 169.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 26, 1931</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. C. N. Davie, of Atlanta, Ga., for appellants.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The appeal herein is dismissed. Louisiana Navigation Co. Ltd., v. Oyster Commission, <span class=\"citation\" data-id=\"97694\"><a href=\"/opinion/97694/louisiana-nav-co-v-oyster-commn-of-la/\"><span class=\"volume\">226</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">99</span></a></span>, 101, <span class=\"citation no-link\"><span class=\"volume\">33</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">78</span></span>, <span class=\"citation\" data-id=\"97694\"><a href=\"/opinion/97694/louisiana-nav-co-v-oyster-commn-of-la/\"><span class=\"volume\">57</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">138</span></a></span>; Reddall v. Bryan, <span class=\"citation no-link\"><span class=\"volume\">24</span> <span class=\"reporter\">How.</span> <span class=\"page\">420</span></span>, <span class=\"citation\" data-id=\"87420\"><a href=\"/opinion/87420/reddall-v-bryan/\"><span class=\"volume\">16</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">740</span></a></span>; Bruce v. Tobin, <span class=\"citation\" data-id=\"99005\"><a href=\"/opinion/99005/bruce-v-tobin/\"><span class=\"volume\">245</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">18</span></a></span>, 19, <span class=\"citation\" data-id=\"99005\"><a href=\"/opinion/99005/bruce-v-tobin/\"><span class=\"volume\">38</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">7</span></a></span>, <span class=\"citation\" data-id=\"99005\"><a href=\"/opinion/99005/bruce-v-tobin/\"><span class=\"volume\">62</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">123</span></a></span>; Verden v. Coleman, <span class=\"citation\" data-id=\"86978\"><a href=\"/opinion/86978/verden-v-coleman/\"><span class=\"volume\">18</span> <span class=\"reporter\">How.</span> <span class=\"page\">86</span></a></span>, <span class=\"citation\" data-id=\"86978\"><a href=\"/opinion/86978/verden-v-coleman/\"><span class=\"volume\">15</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">272</span></a></span>; Moses v. The Mayor, <span class=\"citation\" data-id=\"88617\"><a href=\"/opinion/88617/moses-v-the-mayor/\"><span class=\"volume\">15</span> <span class=\"reporter\">Wall.</span> <span class=\"page\">387</span></a></span>, <span class=\"citation\" data-id=\"88617\"><a href=\"/opinion/88617/moses-v-the-mayor/\"><span class=\"volume\">21</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">176</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/86978/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/87420/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/88617/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/97694/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/99005/"
+  ]
+}

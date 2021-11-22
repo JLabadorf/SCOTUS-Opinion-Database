@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102915/",
+  "id": 102915,
+  "absolute_url": "/opinion/102915/albert-goodman-v-the-people-of-the-state-of-illinois-ex-rel-the-chicago/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102915/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:10Z",
+  "date_modified": "2020-02-21T21:02:52.171555Z",
+  "type": "010combined",
+  "sha1": "a94c87f41bd78c142d6ab46ca9ea66a395bfb1ef",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.728.351.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">302 U.S. 728</p>\n    <p class=\"case_cite\">58 S.Ct. 49</p>\n    <p class=\"case_cite\">82 L.Ed. 562</p>\n    <p class=\"parties\">Albert GOODMAN, petitioner,<br>v.<br>The PEOPLE OF THE STATE OF ILLINOIS, ex rel. The  CHICAGO BAR ASSOCIATION.</p>\n    <p class=\"docket\">No. 351.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 11, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. John B. Boddie, of Chicago, Ill., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 366 Ill. 346, 8 N.E.(2d) 941, 111 A.L.R. 1.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of the State of Illinois denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied 302 U.S. 777, 58 S.Ct. 138, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">728</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">49</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">562</span></span></p>\n    <p class=\"parties\">Albert GOODMAN, petitioner,<br>v.<br>The PEOPLE OF THE STATE OF ILLINOIS, ex rel. The  CHICAGO BAR ASSOCIATION.</p>\n    <p class=\"docket\">No. 351.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 11, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. John B. Boddie, of Chicago, Ill., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation no-link\"><span class=\"volume\">366</span> <span class=\"reporter\">Ill.</span> <span class=\"page\">346</span></span>, 8 N.E.(2d) 941, <span class=\"citation no-link\"><span class=\"volume\">111</span> <span class=\"reporter\">A.L.R.</span> <span class=\"page\">1</span></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Supreme Court of the State of Illinois denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied <span class=\"citation\" data-id=\"102944\"><a href=\"/opinion/102944/kellogg-company-v-national-biscuit-company/\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">777</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">138</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102944/"
+  ]
+}

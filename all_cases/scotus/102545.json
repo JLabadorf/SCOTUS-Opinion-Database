@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102545/",
+  "id": 102545,
+  "absolute_url": "/opinion/102545/the-united-states-of-america-v-frank-rizzo-of-146157-gallons-of-alcohol/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102545/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:53:23Z",
+  "date_modified": "2020-02-21T21:35:53.700340Z",
+  "type": "010combined",
+  "sha1": "fc9c8798df8f8fe85bee2db52c7caba34589d2e0",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/296/296.US.559.272.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">296 U.S. 559</p>\n    <p class=\"case_cite\">56 S.Ct. 124</p>\n    <p class=\"case_cite\">80 L.Ed. 394</p>\n    <p class=\"parties\">The UNITED STATES of America, petitioner,<br>v.<br>Frank RIZZO, Claimant of 146,157 gallons of alcohol.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"docket\">No. 272.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Homer S. Cummings, Atty. Gen., for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit granted.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Subsequently to the decision of the United States Supreme Court, 294 U. S. 709, 55 S. Ct. 406, 79 L. Ed. 1244, denying certiorari to review the decision of the United States Circuit Court of Appeals for the Sixth Circuit, 73 F.(2d) 1010, a petition was filed by the government for a lien for taxes on the fund involved. This petition was denied by the Circuit Court of Appeals by order June 4, 1935, without opinion. The government seeks review of this order.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">296</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">559</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">56</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">124</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">80</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">394</span></span></p>\n    <p class=\"parties\">The UNITED STATES of America, petitioner,<br>v.<br>Frank RIZZO, Claimant of 146,157 gallons of alcohol.<a class=\"footnote\" href=\"#fn1\" id=\"fn1_ref\">1</a></p>\n    <p class=\"docket\">No. 272.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 14, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Homer S. Cummings, Atty. Gen., for the United States.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">No opinion filed in court below.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit granted.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn1\">\n        <a class=\"footnote\" href=\"#fn1_ref\">1</a>\n        <p> Subsequently to the decision of the United States Supreme Court, <span class=\"citation\" data-id=\"102418\"><a href=\"/opinion/102418/jesse-c-duke-v-the-committee-on-grievances-of-the-supreme-court-of-the/\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">709</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">406</span></span>, <span class=\"citation no-link\"><span class=\"volume\">79</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1244</span></span>, denying certiorari to review the decision of the United States Circuit Court of Appeals for the Sixth Circuit, 73 F.(2d) 1010, a petition was filed by the government for a lien for taxes on the fund involved. This petition was denied by the Circuit Court of Appeals by order June 4, 1935, without opinion. The government seeks review of this order.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/102418/"
+  ]
+}

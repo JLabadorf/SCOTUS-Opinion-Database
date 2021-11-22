@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102297/",
+  "id": 102297,
+  "absolute_url": "/opinion/102297/georgia-roberts-by-her-next-friend-margaret-h-roberts-v-washington/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102297/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:52:29Z",
+  "date_modified": "2020-02-21T21:26:39.312793Z",
+  "type": "010combined",
+  "sha1": "c0dbbc4f55576d0d2e5f9a2d5bb645d3c6e3d583",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/292/292.US.608.975.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">292 U.S. 608</p>\n    <p class=\"case_cite\">54 S.Ct. 778</p>\n    <p class=\"case_cite\">78 L.Ed. 1469</p>\n    <p class=\"parties\">Georgia ROBERTS, by her next friend, Margaret H.  Roberts, et al., appellants,<br>v.<br>WASHINGTON TRUST COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 975.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 14, 1934</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Robert H. Locke, of Philadelphia, Pa., for appellants.</p>\n      <p class=\"indent\">For opinion below, see 313 Pa. 584, 170 A. 291.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of the appellee to dismiss the appeal herein is granted, and the appeal is dismissed for the want of jurisdiction. Section 237(a) Judicial Code as amended by the Act of February 13, 1925 (43 Stat. 936, 937, 28 USCA &#167; 344(a). Treating the papers whereon the appeal was allowed as a petition for writ of certiorari, as required by section 237(c) Judicial Code as amended (43 Stat. 936, 938, 28 USCA &#167; 344(c), certiorari is denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 292 U. S. 613, 54 S. Ct. 857, 78 L. Ed.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">292</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">608</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">54</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">778</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">78</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1469</span></span></p>\n    <p class=\"parties\">Georgia ROBERTS, by her next friend, Margaret H.  Roberts, et al., appellants,<br>v.<br>WASHINGTON TRUST COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 975.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 14, 1934</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Robert H. Locke, of Philadelphia, Pa., for appellants.</p>\n      <p class=\"indent\">For opinion below, see <span class=\"citation\" data-id=\"3853165\"><a href=\"/opinion/4093716/roberts-v-washington-trust-co/\"><span class=\"volume\">313</span> <span class=\"reporter\">Pa.</span> <span class=\"page\">584</span></a></span>, <span class=\"citation\" data-id=\"3853165\"><a href=\"/opinion/4093716/roberts-v-washington-trust-co/\"><span class=\"volume\">170</span> <span class=\"reporter\">A.</span> <span class=\"page\">291</span></a></span>.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion of the appellee to dismiss the appeal herein is granted, and the appeal is dismissed for the want of jurisdiction. Section 237(a) Judicial Code as amended by the Act of February 13, 1925 (43 Stat. 936, 937, 28 USCA &#167; 344(a). Treating the papers whereon the appeal was allowed as a petition for writ of certiorari, as required by section 237(c) Judicial Code as amended (43 Stat. 936, 938, 28 USCA &#167; 344(c), certiorari is denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">292</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">613</span></span>, <span class=\"citation no-link\"><span class=\"volume\">54</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">857</span></span>, 78 L. Ed.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/3853165/"
+  ]
+}

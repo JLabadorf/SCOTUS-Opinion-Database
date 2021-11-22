@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/100112/",
+  "id": 100112,
+  "absolute_url": "/opinion/100112/connors-v-illinois/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/100112/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:47:26Z",
+  "date_modified": "2020-02-21T21:11:04.111412Z",
+  "type": "010combined",
+  "sha1": "4de1deebc2c73c95578782b53c4425bda63b8ed8",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/260/260.US.695.6.7.8.9.10.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">260 U.S. 695</p>\n    <p class=\"case_cite\">43 S.Ct. 11</p>\n    <p class=\"case_cite\">67 L.Ed. 468</p>\n    <p class=\"parties\">John CONNORS, plaintiff in error,<br>v.<br>The PEOPLE OF the STATE OF ILLINOIS.  Edward O'DONNELL, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  Leonard BANKS et al., plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  Frank BENDER, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  John BOONE, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  William TAGLIA, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  Abe SCHAFFNER, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  George MORAN, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.</p>\n    <p class=\"docket\">No. 6.</p>\n    <p class=\"docket\">No. 7.</p>\n    <p class=\"docket\">No. 8.</p>\n    <p class=\"docket\">No. 9.</p>\n    <p class=\"docket\">No. 10.</p>\n    <p class=\"docket\">No. 11.</p>\n    <p class=\"docket\">No. 23.</p>\n    <p class=\"docket\">No. 57.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 9, 1922</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Rush B. Johnson, of Chicago, Ill., for plaintiff in error Connors.</p>\n      <p class=\"indent\">Messrs. Edward J. Brundage, Atty. Gen., Edward C. Fitch, Asst. Atty. Gen., and Robert E. Crowe, State's Atty., of Chicago, Ill., for the People of State of Illinois.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Affirmed upon the authority of Dreyer v. Illinois, 187 U. S. 71, 23 Sup. Ct. 28, 47 L. Ed. 79; Ughbanks v. Armstrong, 208 U. S. 481, 485, 28 Sup. Ct. 372, 52 L. Ed. 582.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">260</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">695</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">43</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">11</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">67</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">468</span></span></p>\n    <p class=\"parties\">John CONNORS, plaintiff in error,<br>v.<br>The PEOPLE OF the STATE OF ILLINOIS.  Edward O'DONNELL, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  Leonard BANKS et al., plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  Frank BENDER, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  John BOONE, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  William TAGLIA, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  Abe SCHAFFNER, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.  George MORAN, plaintiff in error,  v.  The PEOPLE OF the STATE OF ILLINOIS.</p>\n    <p class=\"docket\">No. 6.</p>\n    <p class=\"docket\">No. 7.</p>\n    <p class=\"docket\">No. 8.</p>\n    <p class=\"docket\">No. 9.</p>\n    <p class=\"docket\">No. 10.</p>\n    <p class=\"docket\">No. 11.</p>\n    <p class=\"docket\">No. 23.</p>\n    <p class=\"docket\">No. 57.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 9, 1922</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Rush B. Johnson, of Chicago, Ill., for plaintiff in error Connors.</p>\n      <p class=\"indent\">Messrs. Edward J. Brundage, Atty. Gen., Edward C. Fitch, Asst. Atty. Gen., and Robert E. Crowe, State's Atty., of Chicago, Ill., for the People of State of Illinois.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Affirmed upon the authority of Dreyer v. Illinois, <span class=\"citation\" data-id=\"95710\"><a href=\"/opinion/95710/dreyer-v-illinois/\"><span class=\"volume\">187</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">71</span></a></span>, 23 Sup. Ct. 28, <span class=\"citation\" data-id=\"95710\"><a href=\"/opinion/95710/dreyer-v-illinois/\"><span class=\"volume\">47</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">79</span></a></span>; Ughbanks v. Armstrong, <span class=\"citation\" data-id=\"96793\"><a href=\"/opinion/96793/ughbanks-v-armstrong/\"><span class=\"volume\">208</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">481</span></a></span>, 485, 28 Sup. Ct. 372, <span class=\"citation\" data-id=\"96793\"><a href=\"/opinion/96793/ughbanks-v-armstrong/\"><span class=\"volume\">52</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">582</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/95710/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/96793/"
+  ]
+}

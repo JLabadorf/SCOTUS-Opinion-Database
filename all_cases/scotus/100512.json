@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/100512/",
+  "id": 100512,
+  "absolute_url": "/opinion/100512/endicott-johnson-corp-v-smith/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/100512/",
+  "author": "https://www.courtlistener.com/api/rest/v3/people/2839/",
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:48:28Z",
+  "date_modified": "2020-02-21T20:49:24.069544Z",
+  "type": "010combined",
+  "sha1": "20322b1fd73784b874dad9a8d8cb122a9b2993c2",
+  "page_count": null,
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">266 U.S. 291</p>\n    <p class=\"case_cite\">45 S.Ct. 63</p>\n    <p class=\"case_cite\">69 L.Ed. 293</p>\n    <p class=\"parties\">ENDICOTT-JOHNSON CORPORATION, Plaintiff in Error,<br>v.<br>William H. SMITH.</p>\n    <p class=\"docket\">No. 64.</p>\n    <p class=\"date\">Argued Oct. 13, 1924.</p>\n    <p class=\"date\">Decided Nov. 17, 1924.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Maurice E. Page, of Endicott, N. Y., for plaintiff in error.</p>\n      <p class=\"indent\">Mr. Moe Goldstein, of Binghampton, N. Y. for defendant in error.</p>\n      <p class=\"indent\">Mr. Justice SANFORD delivered the opinion of the Court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">This case, like Endicott-Johnson Corporation v. Encyclopedia Press, Inc. (No. 41), 266 U. S. 285, 45 S. Ct. 61, 69 L. Ed. &#8212;&#8212;, just decided, involves the constitutional validity of section 1391 of the New York Code of Civil Procedure. Smith v. Endicott-Johnson Corporation (Sup.) 189 N. Y. S. 673; Id., 199 App. Div. 194, 192 N. Y. S. 121; Id., 234 N. Y. 628, 138 N. E. 474. It is in all respects similar to the Encyclopedia Press Case and governed by the decision therein.</p>\n    </div>\n    <p class=\"indent\">The judgment is</p>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "<div>\n<center><b>266 U.S. 291 (1924)</b></center>\n<center><h1>ENDICOTT JOHNSON CORPORATION<br>\nv.<br>\nSMITH.</h1></center>\n<center>No. 64.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 13, 1924.</center>\n<center>Decided November 17, 1924.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF NEW YORK.\n<p><i>Mr. Maurice E. Page</i> for plaintiff in error.</p>\n<p><i>Mr. Moe Goldstein</i> appeared for defendant in error.</p>\n<p>MR. JUSTICE SANFORD delivered the opinion of the Court.</p>\n<p>This case, like <i>Endicott Johnson Corporation</i> v. <i>Encyclopedia Press, Inc.,</i> No. 41, just decided, <i>ante,</i> 285, involves the constitutional validity of § 1391 of the New York Code of Civil Procedure. 189 N.Y. Supp. 673; 199 App. Div. 194; 234 N.Y. 628. It is in all respects similar to the <i>Encyclopedia Press Case</i> and governed by the decision therein.</p>\n<p>The judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">266</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">291</span> </span>(1924)</b></center>\n<center><h1>ENDICOTT JOHNSON CORPORATION<br>\nv.<br>\nSMITH.</h1></center>\n<center>No. 64.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Argued October 13, 1924.</center>\n<center>Decided November 17, 1924.</center>\nERROR TO THE SUPREME COURT OF THE STATE OF NEW YORK.\n<p><i>Mr. Maurice E. Page</i> for plaintiff in error.</p>\n<p><i>Mr. Moe Goldstein</i> appeared for defendant in error.</p>\n<p>MR. JUSTICE SANFORD delivered the opinion of the Court.</p>\n<p>This case, like <i>Endicott Johnson Corporation</i> v. <i>Encyclopedia Press, Inc.,</i> No. 41, just decided, <i>ante,</i> 285, involves the constitutional validity of § 1391 of the New York Code of Civil Procedure. 189 N.Y. Supp. 673; <span class=\"citation no-link\"><span class=\"volume\">199</span> <span class=\"reporter\">A.D.</span> <span class=\"page\">194</span></span>; <span class=\"citation\" data-id=\"3596996\"><a href=\"/opinion/3614765/smith-v-endicott-johnson-corporation/\"><span class=\"volume\">234</span> <span class=\"reporter\">N.Y.</span> <span class=\"page\">628</span></a></span>. It is in all respects similar to the <i>Encyclopedia Press Case</i> and governed by the decision therein.</p>\n<p>The judgment is</p>\n<p><i>Affirmed.</i></p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/3596996/"
+  ]
+}

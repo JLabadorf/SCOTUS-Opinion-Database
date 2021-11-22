@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103068/",
+  "id": 103068,
+  "absolute_url": "/opinion/103068/sherman-e-odom-and-bertha-o-stephens-v-new-york-life-insurance-company/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103068/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:15Z",
+  "date_modified": "2020-02-21T21:52:15.476249Z",
+  "type": "010combined",
+  "sha1": "18350f95bb7aaa649b2663bd6eaf412ee4f7c887",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.566.894.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">304 U.S. 566</p>\n    <p class=\"case_cite\">58 S.Ct. 948</p>\n    <p class=\"case_cite\">82 L.Ed. 1532</p>\n    <p class=\"parties\">Sherman E. ODOM and Bertha O. Stephens, petitioners,<br>v.<br>NEW YORK LIFE INSURANCE COMPANY.</p>\n    <p class=\"docket\">No. 894.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 2, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. John R. L. Smith, of Macon, Ga., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 93 F.2d 641.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">566</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">948</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1532</span></span></p>\n    <p class=\"parties\">Sherman E. ODOM and Bertha O. Stephens, petitioners,<br>v.<br>NEW YORK LIFE INSURANCE COMPANY.</p>\n    <p class=\"docket\">No. 894.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 2, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. John R. L. Smith, of Macon, Ga., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation\" data-id=\"1542835\"><a href=\"/opinion/1542835/new-york-life-ins-co-v-odom/\"><span class=\"volume\">93</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">641</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1542835/"
+  ]
+}

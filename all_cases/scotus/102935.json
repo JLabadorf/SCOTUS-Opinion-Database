@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102935/",
+  "id": 102935,
+  "absolute_url": "/opinion/102935/raymond-e-korte-v-the-united-states-of-america/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102935/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:10Z",
+  "date_modified": "2020-02-21T21:02:55.275925Z",
+  "type": "010combined",
+  "sha1": "0019dc7b08d3e94bfb7797ba00bbb37bfe413b57",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.761.588.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">302 U.S. 761</p>\n    <p class=\"case_cite\">58 S.Ct. 369</p>\n    <p class=\"case_cite\">82 L.Ed. 590</p>\n    <p class=\"parties\">Raymond E. KORTE, petitioner,<br>v.<br>The UNITED STATES of America.</p>\n    <p class=\"docket\">No. 588.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 20, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. U. S. Lesh, of Indianapolis, Ind., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Weir v. U. S., 92 F.2d 634.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Seventh Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied 302 U.S. 781, 58 S.Ct. 480, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">761</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">369</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">590</span></span></p>\n    <p class=\"parties\">Raymond E. KORTE, petitioner,<br>v.<br>The UNITED STATES of America.</p>\n    <p class=\"docket\">No. 588.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 20, 1937</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. U. S. Lesh, of Indianapolis, Ind., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Weir v. U. S., <span class=\"citation\" data-id=\"1501915\"><a href=\"/opinion/1501915/weir-v-united-states/\"><span class=\"volume\">92</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">634</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Seventh Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">781</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">480</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1501915/"
+  ]
+}

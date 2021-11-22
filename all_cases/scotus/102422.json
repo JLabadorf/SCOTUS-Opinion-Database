@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102422/",
+  "id": 102422,
+  "absolute_url": "/opinion/102422/carl-green-v-the-cleveland-cincinnati-chicago-and-st-louis-railway/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102422/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:52:32Z",
+  "date_modified": "2020-02-21T21:30:51.846574Z",
+  "type": "010combined",
+  "sha1": "cff87a1b0ed0c0249b22a4963d1cf6303a5c6c4e",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/294/294.US.715.688.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">294 U.S. 715</p>\n    <p class=\"case_cite\">55 S.Ct. 516</p>\n    <p class=\"case_cite\">79 L.Ed. 1249</p>\n    <p class=\"parties\">Carl GREEN, petitioner,<br>v.<br>The CLEVELAND, CINCINNATI, CHICAGO, and ST. LOUIS  RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 688.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 18, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Carl Green, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 126 Ohio St. 512, 186 N. E. 365, 87 A. L. R. 1268.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Ohio. The motion for leave to proceed further herein in forma pauperis is denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which a writ of certiorari should be issued. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 294 U. S. 734, 55 S. Ct. 551, 79 L. Ed.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">715</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">516</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">79</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1249</span></span></p>\n    <p class=\"parties\">Carl GREEN, petitioner,<br>v.<br>The CLEVELAND, CINCINNATI, CHICAGO, and ST. LOUIS  RAILWAY COMPANY.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 688.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">February 18, 1935</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Carl Green, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation no-link\"><span class=\"volume\">126</span> <span class=\"reporter\">Ohio St.</span> <span class=\"page\">512</span></span>, <span class=\"citation\" data-id=\"3784857\"><a href=\"/opinion/4028120/c-c-c-st-l-ry-co-v-green/\"><span class=\"volume\">186</span> <span class=\"reporter\">N.E.</span> <span class=\"page\">365</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">87</span> <span class=\"reporter\">A.</span> <span class=\"page\">L</span></span>. R. 1268.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">On petition for writ of certiorari to the Supreme Court of the State of Ohio. The motion for leave to proceed further herein in forma pauperis is denied for the reason that the Court, upon examination of the papers herein submitted, finds no ground upon which a writ of certiorari should be issued. The petition for writ of certiorari is therefore also denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">294</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">734</span></span>, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">551</span></span>, 79 L. Ed.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/3784857/"
+  ]
+}

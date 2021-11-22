@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102914/",
+  "id": 102914,
+  "absolute_url": "/opinion/102914/thomas-r-purman-v-alice-a-smith/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102914/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:10Z",
+  "date_modified": "2020-02-21T21:02:51.930234Z",
+  "type": "010combined",
+  "sha1": "cac20d0fa6cc144a197cf27acd02d997b1ebb28b",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.726.336.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">302 U.S. 726</p>\n    <p class=\"case_cite\">58 S.Ct. 47</p>\n    <p class=\"case_cite\">82 L.Ed. 561</p>\n    <p class=\"parties\">Thomas R. PURMAN, petitioner,<br>v.<br>Alice A. SMITH.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 336.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 11, 1937</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Thomas R. Purman, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 126 Pa.Super. 234, 191 A. 65.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Superior Court of the Commonwealth of Pennsylvania denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 302 U.S. 776, 58 S.Ct. 137, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">726</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">47</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">561</span></span></p>\n    <p class=\"parties\">Thomas R. PURMAN, petitioner,<br>v.<br>Alice A. SMITH.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 336.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">October 11, 1937</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Mr. Thomas R. Purman, pro se.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">For opinion below, see 126 Pa.Super. 234, <span class=\"citation\" data-id=\"3857619\"><a href=\"/opinion/4098084/purman-v-smith/\"><span class=\"volume\">191</span> <span class=\"reporter\">A.</span> <span class=\"page\">65</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Petition for writ of certiorari to the Superior Court of the Commonwealth of Pennsylvania denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">776</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">137</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/3857619/"
+  ]
+}

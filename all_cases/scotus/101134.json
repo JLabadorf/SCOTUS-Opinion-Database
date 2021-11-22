@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/101134/",
+  "id": 101134,
+  "absolute_url": "/opinion/101134/andrew-w-mellon-as-director-general-of-railroads-v-leah-m-gray/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/101134/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:48:42Z",
+  "date_modified": "2020-02-21T20:33:02.569939Z",
+  "type": "010combined",
+  "sha1": "a6c7e2cf77cc1d48e25c2434d60014e291b4b128",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/274/274.US.715.280.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">274 U.S. 715</p>\n    <p class=\"case_cite\">47 S.Ct. 585</p>\n    <p class=\"case_cite\">71 L.Ed. 1318</p>\n    <p class=\"parties\">Andrew W. MELLON, as Director General of  Railroads, petitioner,<br>v.<br>Leah M. GRAY, Administratrix of the ESTATE OF  Glen E. GRAY.</p>\n    <p class=\"docket\">No. 280.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 25, 1927.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Shurtleff, Oakes &amp; Hinkley, of Lancaster, N. H., and Charles H. Blatchford, of Portland, Me., for petitioner.</p>\n      <p class=\"indent\">Messrs. Hollis R. Bailey, of Boston, Mass., and Murchie &amp; Murchie, of Concord, N. H. (Messrs. Alexander Murchie and Robert C. Murchie, both of Concord, N. H., of counsel), for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of Reading Company v. John L. Koons, Administrator, 271 U. S. 58, 46 S. Ct. 405, 70 L. Ed. 835.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">274</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">715</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">47</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">585</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">71</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1318</span></span></p>\n    <p class=\"parties\">Andrew W. MELLON, as Director General of  Railroads, petitioner,<br>v.<br>Leah M. GRAY, Administratrix of the ESTATE OF  Glen E. GRAY.</p>\n    <p class=\"docket\">No. 280.</p>\n    <p class=\"court\">Supreme Court of the United States.</p>\n    <p class=\"date\">April 25, 1927.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Shurtleff, Oakes &amp; Hinkley, of Lancaster, N. H., and Charles H. Blatchford, of Portland, Me., for petitioner.</p>\n      <p class=\"indent\">Messrs. Hollis R. Bailey, of Boston, Mass., and Murchie &amp; Murchie, of Concord, N. H. (Messrs. Alexander Murchie and Robert C. Murchie, both of Concord, N. H., of counsel), for respondent.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Reversed on the authority of Reading Company v. John L. Koons, Administrator, <span class=\"citation\" data-id=\"100848\"><a href=\"/opinion/100848/reading-co-v-koons/\"><span class=\"volume\">271</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">58</span></a></span>, <span class=\"citation\" data-id=\"100848\"><a href=\"/opinion/100848/reading-co-v-koons/\"><span class=\"volume\">46</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">405</span></a></span>, <span class=\"citation\" data-id=\"100848\"><a href=\"/opinion/100848/reading-co-v-koons/\"><span class=\"volume\">70</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">835</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/100848/"
+  ]
+}

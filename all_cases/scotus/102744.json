@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102744/",
+  "id": 102744,
+  "absolute_url": "/opinion/102744/the-north-american-cement-corporation-v-mark-graves-etc/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102744/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:05Z",
+  "date_modified": "2020-02-21T21:44:47.534061Z",
+  "type": "010combined",
+  "sha1": "f5f0cc9626d3b20fa0fdbb59279bdf21f544a982",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/299/299.US.517.108.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">299 U.S. 517</p>\n    <p class=\"case_cite\">57 S.Ct. 311</p>\n    <p class=\"case_cite\">81 L.Ed. 381</p>\n    <p class=\"parties\">The NORTH AMERICAN CEMENT CORPORATION, appellant,<br>v.<br>Mark GRAVES et al., etc.</p>\n    <p class=\"docket\">No. 108.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 21, 1936</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Charles J. Tobin, of Albany, N. Y., for appellant.</p>\n      <p class=\"indent\">For decisions below, see 269 N.Y. 507, 199 N.E. 510; 243 App.Div. 834, 278 N.Y.S. 920.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment affirmed upon the ground that the statute (Section 214, Article 9-A, of the Tax Law of the State of New York) is valid upon its face and it has not been shown to have been so applied as to violate appellants' constitutional rights. Bass, Ratcliff &amp; Gretton, Ltd., v. State Tax Commission, 266 U.S. 271, 45 S.Ct. 82, 69 L.Ed. 282.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">299</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">517</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">57</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">311</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">81</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">381</span></span></p>\n    <p class=\"parties\">The NORTH AMERICAN CEMENT CORPORATION, appellant,<br>v.<br>Mark GRAVES et al., etc.</p>\n    <p class=\"docket\">No. 108.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">December 21, 1936</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Charles J. Tobin, of Albany, N. Y., for appellant.</p>\n      <p class=\"indent\">For decisions below, see <span class=\"citation\" data-id=\"3624861\"><a href=\"/opinion/3641031/matter-of-north-american-cement-corporation-v-graves/\"><span class=\"volume\">269</span> <span class=\"reporter\">N.Y.</span> <span class=\"page\">507</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">199</span> <span class=\"reporter\">N.E.</span> <span class=\"page\">510</span></span>; <span class=\"citation no-link\"><span class=\"volume\">243</span> <span class=\"reporter\">A.D.</span> <span class=\"page\">834</span></span>, <span class=\"citation no-link\"><span class=\"volume\">278</span> <span class=\"reporter\">N.Y.S.</span> <span class=\"page\">920</span></span>.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Judgment affirmed upon the ground that the statute (Section 214, Article 9-A, of the Tax Law of the State of New York) is valid upon its face and it has not been shown to have been so applied as to violate appellants' constitutional rights. Bass, Ratcliff &amp; Gretton, Ltd., v. State Tax Commission, <span class=\"citation\" data-id=\"100510\"><a href=\"/opinion/100510/bass-etc-ltd-v-tax-comm/\"><span class=\"volume\">266</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">271</span></a></span>, <span class=\"citation\" data-id=\"100510\"><a href=\"/opinion/100510/bass-etc-ltd-v-tax-comm/\"><span class=\"volume\">45</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">82</span></a></span>, <span class=\"citation\" data-id=\"100510\"><a href=\"/opinion/100510/bass-etc-ltd-v-tax-comm/\"><span class=\"volume\">69</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">282</span></a></span>.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/100510/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/3624861/"
+  ]
+}

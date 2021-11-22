@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/103064/",
+  "id": 103064,
+  "absolute_url": "/opinion/103064/fred-f-florence-v-r-e-crummer/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/103064/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:15Z",
+  "date_modified": "2020-02-21T21:52:14.921775Z",
+  "type": "010combined",
+  "sha1": "e78d090d5f5264afe253cbe263279c11e9fb0c94",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/304/304.US.563.889.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">304 U.S. 563</p>\n    <p class=\"case_cite\">58 S.Ct. 944</p>\n    <p class=\"case_cite\">82 L.Ed. 1530</p>\n    <p class=\"parties\">Fred F. FLORENCE et al., petitioners,<br>v.<br>R. E. CRUMMER.</p>\n    <p class=\"docket\">No. 889.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 25, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Charles L. Black and Ireland Graves, both of Austin, Tex., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see 93 F.2d 542.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied 304 U.S. 589, 58 S.Ct. 1037, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"103065\"><a href=\"/opinion/103065/r-j-reynolds-tobacco-company-v-c-h-robertson-collector-of-internal/\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">563</span></a></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">944</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1530</span></span></p>\n    <p class=\"parties\">Fred F. FLORENCE et al., petitioners,<br>v.<br>R. E. CRUMMER.</p>\n    <p class=\"docket\">No. 889.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 25, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Messrs. Charles L. Black and Ireland Graves, both of Austin, Tex., for petitioners.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see <span class=\"citation no-link\"><span class=\"volume\">93</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">542</span></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Fifth Circuit denied.</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">304</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">589</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">1037</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/103065/"
+  ]
+}

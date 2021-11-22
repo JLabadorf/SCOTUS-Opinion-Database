@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/102942/",
+  "id": 102942,
+  "absolute_url": "/opinion/102942/edward-h-alsop-v-guy-t-helvering-commissioner-of-internal-revenue/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/102942/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:54:10Z",
+  "date_modified": "2020-02-21T21:23:24.189547Z",
+  "type": "010combined",
+  "sha1": "c5b7846199b007261164982ac90a24d0fb264904",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/302/302.US.767.626.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">302 U.S. 767</p>\n    <p class=\"case_cite\">58 S.Ct. 480</p>\n    <p class=\"case_cite\">82 L.Ed. 595</p>\n    <p class=\"parties\">Edward H. ALSOP, petitioner,<br>v.<br>Guy T. HELVERING, Commissioner of Internal Revenue.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 626.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 17, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. R. T. M. McCready, of Pittsburgh, Pa., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Alsop v. Commissioner of Internal Revenue, 92 F.2d 148.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied 303 U.S. 666, 58 S.Ct. 521, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">302</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">767</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">480</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">82</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">595</span></span></p>\n    <p class=\"parties\">Edward H. ALSOP, petitioner,<br>v.<br>Guy T. HELVERING, Commissioner of Internal Revenue.<a class=\"footnote\" href=\"#fn-s\" id=\"fn-s_ref\">*</a></p>\n    <p class=\"docket\">No. 626.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">January 17, 1938</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. R. T. M. McCready, of Pittsburgh, Pa., for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">For opinion below, see Alsop v. Commissioner of Internal Revenue, <span class=\"citation\" data-id=\"1501804\"><a href=\"/opinion/1501804/alsop-v-commissioner-of-internal-revenue/\"><span class=\"volume\">92</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">148</span></a></span>.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Petition for writ of certiorari to the United States Circuit Court of Appeals for the Third Circuit denied.</p>\n    </div>\n    <div class=\"footnotes\">\n      <div class=\"footnote\" id=\"fn-s\">\n        <a class=\"footnote\" href=\"#fn-s_ref\">*</a>\n        <p> Rehearing denied <span class=\"citation no-link\"><span class=\"volume\">303</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">666</span></span>, <span class=\"citation no-link\"><span class=\"volume\">58</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">521</span></span>, 82 L.Ed. &#8212;&#8212;.</p>\n      </div>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/1501804/"
+  ]
+}

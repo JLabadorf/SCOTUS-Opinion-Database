@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/100194/",
+  "id": 100194,
+  "absolute_url": "/opinion/100194/united-states-v-mossel-same-v-milford/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/100194/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-04-28T16:48:20Z",
+  "date_modified": "2020-02-21T21:40:21.278308Z",
+  "type": "010combined",
+  "sha1": "ce7e78a5f571e7333773aad486fc20eb88f84bb1",
+  "page_count": null,
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/262/262.US.65.372.373.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">262 U.S. 65</p>\n    <p class=\"case_cite\">43 S.Ct. 494</p>\n    <p class=\"case_cite\">67 L.Ed. 865</p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>MOSSEL.  SAME  v.  MILFORD.</p>\n    <p class=\"docket\">Nos. 372, 373.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">Argued April 10, 1923.</p>\n    <p class=\"date\">April 23, 1923</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The Attorney General and Mr. James A. Fowler, of Knoxville, Tenn., for the United States.</p>\n      <p class=\"indent\">Mr. George A. King, of Washington, D. C. for appellees.</p>\n      <p class=\"indent\">Mr. Justice McKENNA delivered the opinion of the Court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Under stipulation of counsel, filed in the clerk's office, the above cases are submitted on the record as printed in United States v. Harry W. Luskey (No. 371) 262 U. S. 62, 43 Sup. Ct. 493, 67 L. Ed. &#8212;&#8212;, just decided, 'it being agreed by counsel that they shall be controlled by the decision in that case.'</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Therefore, upon its authority, the judgments in these cases are</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">262</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">65</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">43</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">494</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation\" data-id=\"100195\"><a href=\"/opinion/100195/ag-spalding-bros-v-edwards/\"><span class=\"volume\">67</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">865</span></a></span></p>\n    <p class=\"parties\">UNITED STATES<br>v.<br>MOSSEL.  SAME  v.  MILFORD.</p>\n    <p class=\"docket\">Nos. 372, 373.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">Argued April 10, 1923.</p>\n    <p class=\"date\">April 23, 1923</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">The Attorney General and Mr. James A. Fowler, of Knoxville, Tenn., for the United States.</p>\n      <p class=\"indent\">Mr. George A. King, of Washington, D. C. for appellees.</p>\n      <p class=\"indent\">Mr. Justice McKENNA delivered the opinion of the Court.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Under stipulation of counsel, filed in the clerk's office, the above cases are submitted on the record as printed in United States v. Harry W. Luskey (No. 371) <span class=\"citation\" data-id=\"100193\"><a href=\"/opinion/100193/united-states-v-luskey/\"><span class=\"volume\">262</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">62</span></a></span>, 43 Sup. Ct. 493, 67 L. Ed. &#8212;&#8212;, just decided, 'it being agreed by counsel that they shall be controlled by the decision in that case.'</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Therefore, upon its authority, the judgments in these cases are</p>\n    </div>\n    <div class=\"num\" id=\"p3\">\n      <span class=\"num\">3</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/100193/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/100195/"
+  ]
+}
